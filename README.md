@@ -8,5 +8,6 @@ https://docs.oracle.com/javase/8/docs/api/
 헤더 정보 사이트 => https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/  
 header = {"User-agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"}
 ***
-톰캣 서버 실행속도가 느릴경우 Servers 폴더의 context.xml 파일을 열고 <Context> 태그 내부에  
+# 톰캣 서버 실행속도가 느릴경우  
+Servers 폴더의 context.xml 파일을 열고 <Context> 태그 내부에  
 <JarScanner scanClassPath="false"/>를 입력한다.
