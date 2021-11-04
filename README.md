@@ -12,4 +12,4 @@ header = {"User-agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.
 이클립스 Project Explorer의 Servers 폴더의 context.xml 파일을 열고 &lt;Context&gt; 태그 내부에  
 &lt;JarScanner scanClassPath="false"/&gt;를 입력한다.
 ***
-<img src="https://github.com/Ryujongwoo/kookgi_11gi/blob/master/20211101_092/matrix.png"/>
+
